@@ -1,1 +1,1 @@
-console.lof("new file");
+console.lof("new files");
